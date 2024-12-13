@@ -47,26 +47,13 @@
         {
          "columns":50,
          "firstgid":1,
-         "image":"..\/bilder\/background.jpg",
+         "image":"background.jpg",
          "imageheight":1600,
          "imagewidth":1600,
          "margin":0,
          "name":"background",
          "spacing":0,
          "tilecount":2500,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":12,
-         "firstgid":2501,
-         "image":"tilesets\/WA_Other_Furniture.png",
-         "imageheight":416,
-         "imagewidth":384,
-         "margin":0,
-         "name":"WA_Other_Furniture",
-         "spacing":0,
-         "tilecount":156,
          "tileheight":32,
          "tilewidth":32
         }],
